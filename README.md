@@ -1,4 +1,4 @@
-# Clean Full-Stack App
+# Demo Full-Stack App
 
 A super simple full-stack application that actually works!
 
@@ -13,7 +13,7 @@ A super simple full-stack application that actually works!
 ## Quick Start
 
 ```bash
-cd clean-fullstack
+cd 20260107-demo
 docker compose up
 ```
 
